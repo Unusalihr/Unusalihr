@@ -1,5 +1,7 @@
 # Unus Ali
 
+<img src="assets/portrait.jpg" alt="Unus Ali, professional portrait" width="160">
+
 **HR & Payroll · Excel Reporting · Workflow Automation**  
 Sreepur, Gazipur, Bangladesh
 
